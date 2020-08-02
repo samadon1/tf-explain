@@ -7,6 +7,7 @@ import argparse
 import random
 import shutil
 import os
+from argparse import ArgumentParser
 
 # construct the argument parser and parse the arguments
 ap = argparse.ArgumentParser()
